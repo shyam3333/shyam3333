@@ -1,7 +1,7 @@
 ### Hello sup?, I'm Shyam
-> I am a programmer as well as a professional gamer 😎.
-> Quick learner.
-> Web Developer
+> I am a programmer as well as a professional gamer 😎. |
+> Quick learner. |
+> Web Developer |
 
 ## I'm a Student, Programmer and Developer !
 - ⚡ Fun fact: I love watching web series and animes.
